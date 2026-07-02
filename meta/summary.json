@@ -1,0 +1,17 @@
+{
+  "root": "/home/ubuntu/T527/T527_Tina5.0_SDK",
+  "package": "/home/ubuntu/T527/T527_Tina5.0_SDK/pikvm-sdk",
+  "overlay_files": 165,
+  "delete_entries": 0,
+  "skipped_entries": 0,
+  "exclude_top": [
+    "bak",
+    "pikvm-sdk",
+    "out"
+  ],
+  "exclude_prefixes": [
+    "prebuilt/rootfsbuilt/",
+    ".local_patch/"
+  ],
+  "target_cache_rule": "exclude target dirs except openwrt/target and openwrt/openwrt/target"
+}
